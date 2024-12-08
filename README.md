@@ -3,6 +3,12 @@
 ## Usage
 
 ## Roadmap
+- [ ] Tasks
+- [ ] Methods
+- [ ] Operators
+- [ ] Task Decomposition
+- [ ] Planning
+- [ ] Executing
 
 ## Acknowledgment
 
