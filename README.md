@@ -6,6 +6,8 @@
 - [ ] Tasks
 - [ ] Methods
 - [ ] Operators
+  - [ ] Preconditions
+  - [ ] Effects
 - [ ] Task Decomposition
 - [ ] Planning
 - [ ] Executing
